@@ -27,7 +27,7 @@
 
 Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ assessment Instructions 
+## ⭐️ Assessment Instructions 
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
