@@ -35,21 +35,21 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:-:|---|---|
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
-|:three:|You must write comments explaining each line in your code, use the index.js file provided in the repo :flashlight:|:ballot_box_with_check:|
-|:four:|Copy the repo's Http url and paste it to your lab dropbox on moodle :inbox_tray:|:ballot_box_with_check:|
-|:five:|Write your assessment reflection using the journal.txt file provided in the repo :pencil:|:ballot_box_with_check:|
+|:three:|You must write comments explaining each line in your code, use the src folder provided in the repo :flashlight:|:ballot_box_with_check:|
+|:four:|Copy the repo's Http url and paste it to your assessment dropbox on moodle :inbox_tray:|:ballot_box_with_check:|
+|:five:|Write your notes using the assessment notes markdown file provided in the repo :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
 |:-:|---|---|
-|:one:|Do NOT fork the lab repo :trident:|:heavy_multiplication_x:|
+|:one:|Do NOT fork the assessment repo :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
-|:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Assessment Two Description
+## :page_facing_up: Assessment Three Description
 
-:arrow_right: Assessment Two Outline is provided in SDV503 Moodle. Follow the Assessment 
+:arrow_right: Assessment Three Outline is provided in SDV503 Moodle. Follow the Assessment 
               outline timeline and marking rubric
 
 
