@@ -44,7 +44,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:one:|Do NOT fork the assessment repo :trident:|:heavy_multiplication_x:|
 |:two:|Do NOT share your code :lock_with_ink_pen:|:heavy_multiplication_x:|
 |:three:|Do NOT commit your code without a message :incoming_envelope:|:heavy_multiplication_x:|
-|:four:|Do NOT Share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
+|:four:|Do NOT share the assessment repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
 ## :page_facing_up: Assessment Three Description
