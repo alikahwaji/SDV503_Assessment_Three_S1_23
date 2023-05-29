@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Assessment Two 👋</h1>
+<h1 align="center">Welcome to Assessment Three 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -27,7 +27,7 @@
 
 Feedbacks, issues and requests will be in the issues page!<br />Feel free to check [issues page](https://github.com/alikahwaji/Lab-template/issues). You can also take a look at the [GitHub guide](https://guides.github.com/).
 
-## ⭐️ Lab Instructions 
+## ⭐️ assessment Instructions 
 
 Check the :white_check_mark: Todos & :x: Not Todos 
 
