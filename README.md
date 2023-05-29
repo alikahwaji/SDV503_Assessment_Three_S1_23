@@ -36,7 +36,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:one:|[@Watch](https://www.youtube.com/watch?v=fRLZIUxva5Q) Setup GitHub classroom as a student|:ballot_box_with_check:|
 |:two:|[@Watch](https://www.youtube.com/watch?v=yXT1ElMEkW8) How to clone a GitHub repo :computer:|:ballot_box_with_check:|
 |:three:|You must write comments explaining each line in your code, use the src folder provided in the repo :flashlight:|:ballot_box_with_check:|
-|:four:|Copy the repo's Http url and paste it to your assessment dropbox on moodle :inbox_tray:|:ballot_box_with_check:|
+|:four:|Copy the repo's Http url and paste it to your assessment dropbox with the zip folder of your assessment repo :inbox_tray:|:ballot_box_with_check:|
 |:five:|Write your notes using the assessment notes markdown file provided in the repo :pencil:|:ballot_box_with_check:|
 
 |:1234:|:capital_abcd: Not Todos|:passport_control:|
